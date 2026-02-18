@@ -1,3 +1,5 @@
+.
+
 🚀 CIVICAI
 AI-Powered Civic Infrastructure Monitoring System for Urban & Rural Communities
 📌 Overview
@@ -16,11 +18,11 @@ The system enables citizens to upload images of infrastructure issues such as:
 
 🛣️ Rural road deterioration
 
-Using a trained computer vision model, CIVICAI automatically detects and categorizes issues, creating structured reports for local authorities to review and resolve efficiently.
+Using a trained computer vision model, CIVICAI automatically detects and categorizes issues, generating structured reports that local authorities can review and resolve efficiently.
 
 🎯 Mission
 
-To bridge the digital governance gap between urban municipalities and rural local bodies by introducing AI-based automation in civic issue reporting.
+To bridge the digital governance gap between urban municipalities and rural local bodies by introducing AI-based automation into civic issue reporting systems.
 
 🧠 AI Model
 
@@ -32,7 +34,7 @@ Inference: Real-time image classification
 
 Application: Infrastructure issue detection across urban and rural regions
 
-Model weights are excluded from this repository for optimization and deployment flexibility.
+⚠️ Model weights are excluded from this repository for optimization and deployment flexibility.
 
 🏗️ Tech Stack
 🔹 Backend
@@ -57,7 +59,7 @@ Responsive UI Design
 
 🔹 Database
 
-SQLite (Development)
+SQLite (Development Environment)
 
 ⚙️ Key Features
 👤 Citizen Interface
@@ -83,9 +85,9 @@ Transparent reporting system
 
 Faster complaint classification
 
-Reduced administrative burden
+Reduced administrative workload
 
-Improved city management transparency
+Improved governance transparency
 
 🌾 Rural Benefits
 
@@ -94,6 +96,22 @@ Digital complaint access for remote areas
 Infrastructure monitoring for village roads
 
 Support for local governance bodies
+
+🖼️ Demo & Screenshots
+
+📌 Paste your application screenshots below.
+You can upload images inside a folder called /screenshots and reference them like shown.
+
+🔐 Login Page
+![Login Page](screenshots/login.png)
+📤 Issue Upload Interface
+![Upload Page](screenshots/upload.png)
+📊 Admin Dashboard
+![Dashboard](screenshots/dashboard.png)
+🤖 AI Detection Output
+![Detection Output](screenshots/detection.png)
+
+🔹 Replace image filenames with your actual screenshot names.
 
 📂 Project Structure
 SmartCityProject/
@@ -120,10 +138,18 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+
+Backend runs on:
+
+http://127.0.0.1:5000
 3️⃣ Frontend Setup
 cd frontend
 npm install
 npm run dev
+
+Frontend runs on:
+
+http://localhost:5173
 🔐 Security & Optimization
 
 The following are excluded from version control:
@@ -153,4 +179,3 @@ Cloud deployment
 Mobile application integration
 
 AI model optimization for edge devices
-
