@@ -1,28 +1,28 @@
-# Python
+# Python virtual environment
 venv/
 .venv/
+
+# Python cache
 __pycache__/
 *.pyc
-
-# Windows
-desktop.ini
-Thumbs.db
 
 # Node
 node_modules/
 dist/
 build/
 
-# Env
+# Environment files
 .env
 .env.*
 
-# Uploads / generated
+# Database files
+*.db
+instance/
+
+# Uploaded files
 static/uploads/
 
-# DB
-*.db
-instance/*.db
-
-# Optional: model weights (remove if you want to upload best.pt)
+# Windows system
+desktop.ini
+Thumbs.db*
 *.pt
