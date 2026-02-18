@@ -1,7 +1,8 @@
-.
 
 🚀 CIVICAI
 AI-Powered Civic Infrastructure Monitoring System for Urban & Rural Communities
+
+
 📌 Overview
 
 CIVICAI is an AI-driven civic issue detection and reporting platform designed to serve both urban cities and rural communities.
@@ -97,21 +98,10 @@ Infrastructure monitoring for village roads
 
 Support for local governance bodies
 
-🖼️ Demo & Screenshots
-
-📌 Paste your application screenshots below.
-You can upload images inside a folder called /screenshots and reference them like shown.
-
-🔐 Login Page
-![Login Page](screenshots/login.png)
-📤 Issue Upload Interface
-![Upload Page](screenshots/upload.png)
-📊 Admin Dashboard
-![Dashboard](screenshots/dashboard.png)
-🤖 AI Detection Output
-![Detection Output](screenshots/detection.png)
-
-🔹 Replace image filenames with your actual screenshot names.
+🖼️ Demo Screenshots
+<img width="1915" height="1031" alt="Screenshot 2026-02-18 171446" src="https://github.com/user-attachments/assets/06ee4d41-b2bb-42c9-9d2f-c0f71fd104ed" />
+<img width="1919" height="1026" alt="Screenshot 2026-02-18 171538" src="https://github.com/user-attachments/assets/fc37e068-ae55-4979-a969-0f2dadb37492" />
+<img width="1919" height="1025" alt="Screenshot 2026-02-18 171608" src="https://github.com/user-attachments/assets/a6e5cd3a-1b14-40bb-9d20-e4668acc86c0" />
 
 📂 Project Structure
 SmartCityProject/
