@@ -154,8 +154,3 @@ Mobile application integration
 
 AI model optimization for edge devices
 
-👨‍💻 Author
-
-Harish R
-AI & Full Stack Developer
-GitHub: https://github.com/Harishragaventhira
