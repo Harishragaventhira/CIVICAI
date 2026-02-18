@@ -1,0 +1,28 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+build/
+
+# Env
+.env
+.env.*
+
+# Uploads / generated
+static/uploads/
+
+# DB
+*.db
+instance/*.db
+
+# Optional: model weights (remove if you want to upload best.pt)
+*.pt
